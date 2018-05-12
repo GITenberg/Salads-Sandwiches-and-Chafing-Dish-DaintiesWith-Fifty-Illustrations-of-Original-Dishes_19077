@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4882
     wikipedia: http://en.wikipedia.org/wiki/Janet_McKenzie_Hill
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19077#Salads-Sandwiches-and-Chafing-Dish-DaintiesWith-Fifty-Illustrations-of-Original-Dishes
 gutenberg_bookshelf: Cookery
 gutenberg_issued: '2006-08-18'
 gutenberg_type: Text
