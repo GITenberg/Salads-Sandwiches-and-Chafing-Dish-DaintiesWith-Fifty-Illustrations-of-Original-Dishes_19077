@@ -1,0 +1,32 @@
+_repo: Salads-Sandwiches-and-Chafing-Dish-DaintiesWith-Fifty-Illustrations-of-Original-Dishes_19077
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hill, Janet McKenzie
+    birthdate: 1852
+    deathdate: 1933
+    gutenberg_agent_id: '4882'
+    url: http://www.gutenberg.org/2009/agents/4882
+    wikipedia: http://en.wikipedia.org/wiki/Janet_McKenzie_Hill
+description: ''
+gutenberg_bookshelf: Cookery
+gutenberg_issued: '2006-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19077'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Salads'
+- !lcsh 'Chafing dish cooking'
+- !lcsh 'Sandwiches'
+title: 'Salads, Sandwiches and Chafing-Dish Dainties
+
+  With Fifty Illustrations of Original Dishes'
+url: http://www.gutenberg.org/ebooks/19077
